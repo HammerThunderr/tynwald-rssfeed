@@ -2,7 +2,7 @@
   "success": true,
   "feed": "hansard",
   "total": 20,
-  "updated": "2026-04-07 08:59 UTC",
+  "updated": "2026-04-07 10:13 UTC",
   "items": [
     {
       "title": "24 Mar 2026 Legislative Council Hansard DRAFT",
@@ -13,6 +13,11 @@
       "title": "24 Mar 2026 House of Keys DRAFT",
       "url": "https://tynwald.org.im/spfile?file=/business/hansard/20202040/k260324.pdf",
       "description": "House of Keys 24 Mar 2026"
+    },
+    {
+      "title": "24 Mar 2026 House of Keys Hansard Appendix - Q1.1 Assisted voluntary return migrant travel – Use to facilitate travel to the Island",
+      "url": "https://tynwald.org.im/spfile?file=/business/hansard/20202040/k260324-HA-Q1.1.pdf",
+      "description": "Hansard Appendix - 24 Mar 2026 House of Keys - Q1.1 Assisted voluntary return migrant travel – Use to facilitate travel to the Island: additional information provided by Hon. A Cannan MHK, Chief Minister"
     },
     {
       "title": "18 Mar 2026 Tynwald DRAFT",
@@ -98,11 +103,6 @@
       "title": "12 Feb 2026 Select Committee of Tynwald on Whistleblowing Policy Implementation No. 2 Oral Evidence Hansard DRAFT",
       "url": "https://tynwald.org.im/spfile?file=/business/hansard/20202040/wbpi260212.pdf",
       "description": "Committee 12 Feb 2026"
-    },
-    {
-      "title": "10 Feb 2026 Legislative Council Hansard DRAFT",
-      "url": "https://tynwald.org.im/spfile?file=/business/hansard/20202040/c260210.pdf",
-      "description": "Legislative Council 10 Feb 2026"
     }
   ]
 }
