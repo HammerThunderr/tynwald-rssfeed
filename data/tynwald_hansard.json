@@ -2,7 +2,7 @@
   "success": true,
   "feed": "hansard",
   "total": 20,
-  "updated": "2026-04-14 11:00 UTC",
+  "updated": "2026-04-14 13:20 UTC",
   "items": [
     {
       "title": "07 Apr 2026 Legislative Council Hansard DRAFT",
@@ -13,6 +13,11 @@
       "title": "31 Mar 2026 House of Keys Hansard DRAFT",
       "url": "https://tynwald.org.im/spfile?file=/business/hansard/20202040/k260331.pdf",
       "description": "House of Keys 31 Mar 2026"
+    },
+    {
+      "title": "31 Mar 2026 Legislative Council Hansard DRAFT",
+      "url": "https://tynwald.org.im/spfile?file=/business/hansard/20202040/c260331.pdf",
+      "description": "Legislative Council 31 Mar 2026"
     },
     {
       "title": "24 Mar 2026 Legislative Council Hansard DRAFT",
@@ -98,11 +103,6 @@
       "title": "18 Feb 2026 Tynwald Hansard Appendix - I8-9 Minimum Wage Act 2001 – Minimum Wage (Single Hourly Rate) Regulations 2026 approved; Minimum Wage (Young Workers) Regulations 2026 approved",
       "url": "https://tynwald.org.im/spfile?file=/business/hansard/20202040/t260218-HA-I8-9.pdf",
       "description": "Hansard Appendix - 18 Feb 2026 Tynwald - I8-9 Minimum Wage Act 2001 – Minimum Wage (Single Hourly Rate) Regulations 2026 approved; Minimum Wage (Young Workers) Regulations 2026 approved: provided by Hon. W Wannenburgh KC MLC, Attorney General"
-    },
-    {
-      "title": "18 Feb 2026 Tynwald Hansard Appendix - Q5 Married couples or civil partners’ tax treatment – Extending to cohabiting couples",
-      "url": "https://tynwald.org.im/spfile?file=/business/hansard/20202040/t260218-HA-Q5.pdf",
-      "description": "Hansard Appendix - 18 Feb 2026 Tynwald - Q5 Married couples or civil partners’ tax treatment – Extending to cohabiting couples: additional information provided by Hon. C Thomas MHK, Minister for the Treasury"
     }
   ]
 }
