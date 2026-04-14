@@ -2,8 +2,13 @@
   "success": true,
   "feed": "votes",
   "total": 20,
-  "updated": "2026-04-14 13:20 UTC",
+  "updated": "2026-04-14 15:11 UTC",
   "items": [
+    {
+      "title": "07 Apr 2026 Legislative Council Votes and Proceedings",
+      "url": "https://tynwald.org.im/spfile?file=/business/vp/VP/2026-PP-0069.pdf",
+      "description": "Legislative Council 07 Apr 2026"
+    },
     {
       "title": "31 Mar 2026 Legislative Council Votes and Proceedings",
       "url": "https://tynwald.org.im/spfile?file=/business/vp/VP/2026-PP-0065.pdf",
@@ -98,11 +103,6 @@
       "title": "20 Jan 2026 Tynwald Votes and Proceedings",
       "url": "https://tynwald.org.im/spfile?file=/business/vp/VP/2026-PP-0008.pdf",
       "description": "Tynwald 20 Jan 2026"
-    },
-    {
-      "title": "13 Jan 2026 House of Keys Votes and Proceedings",
-      "url": "https://tynwald.org.im/spfile?file=/business/vp/VP/2026-PP-0005.pdf",
-      "description": "House of Keys 13 Jan 2026"
     }
   ]
 }
