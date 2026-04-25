@@ -1,6 +1,108 @@
 {
-  "success": false,
+  "success": true,
   "feed": "parliamentary",
-  "error": "429 Client Error: Too Many Requests for url: https://tynwald.org.im/rss?site=/business/pp&list=Parliamentary%20Reports",
-  "items": []
+  "total": 20,
+  "updated": "2026-04-25 23:35 UTC",
+  "items": [
+    {
+      "title": "Constitution Bill 2005 House of Keys: Report of the Delegation to a Conference with the Legislative Council - Nov 2005",
+      "url": "https://tynwald.org.im/spfile?file=/business/pp/Reports/2005-NN-0010.pdf",
+      "description": "House of Keys"
+    },
+    {
+      "title": "Select Committee of Keys on the Constitution (Legislatve Council) Bill",
+      "url": "https://tynwald.org.im/spfile?file=/business/pp/Reports/200405 2004-NN-0017 Select Committee of Keys on the Constitution (Legislatve Council) Bill.pdf",
+      "description": "House of Keys"
+    },
+    {
+      "title": "House of Keys Report of the Select Committee on the Constitution Bill",
+      "url": "https://tynwald.org.im/spfile?file=/business/pp/Reports/2000-NN-0026.pdf",
+      "description": "House of Keys"
+    },
+    {
+      "title": "Report of the Select Committee on the Legislative Council",
+      "url": "https://tynwald.org.im/spfile?file=/business/pp/Reports/1999-NN-0020.pdf",
+      "description": "House of Keys"
+    },
+    {
+      "title": "Annual report of the Standing Committee on Economic Initiatives - Jun 2001",
+      "url": "https://tynwald.org.im/spfile?file=/business/pp/Reports/2001-NN-0008.pdf",
+      "description": "Committee"
+    },
+    {
+      "title": "Report of the Tynwald Management Committee (in relation to the appointment of Marilyn Cullen, Deputy Clerk of Tynwald) _ Apr 2001",
+      "url": "https://tynwald.org.im/spfile?file=/business/pp/Reports/2001-NN-0003.pdf",
+      "description": "Committee"
+    },
+    {
+      "title": "Report of the Standing Committee on Constitutional Matters - The appointment process of the Lieutenant Governor of the Isle of Man - Feb 2001",
+      "url": "https://tynwald.org.im/spfile?file=/business/pp/Reports/2001-NN-0002.pdf",
+      "description": "Committee"
+    },
+    {
+      "title": "Report of the Standing Orders Committee of Tynwald on Petitions for Redress presented on 5th July 2001 - Jul 2001",
+      "url": "https://tynwald.org.im/spfile?file=/business/pp/Reports/2001-NN-0009.pdf",
+      "description": "Committee"
+    },
+    {
+      "title": "Second report of the Standing Committee on Economic Initiatives 2000/2001 - The Legal context of contemporary economic initiatives - Feb 2001",
+      "url": "https://tynwald.org.im/spfile?file=/business/pp/Reports/2001-NN-0001.pdf",
+      "description": "Committee"
+    },
+    {
+      "title": "First Report of the Standing Committee on Economic Initiatives 2000/2001 - Double Taxation Agreements and Exchange of Information - Sep 2000",
+      "url": "https://tynwald.org.im/spfile?file=/business/pp/Reports/2000-NN-0004.pdf",
+      "description": "Committee"
+    },
+    {
+      "title": "General Report of the Standing Committee of Tynwald on Expenditure and Public Accounts Session 2000 - 2001 - Oct 2001",
+      "url": "https://tynwald.org.im/spfile?file=/business/pp/Reports/2001-NN-0015.pdf",
+      "description": "Committee"
+    },
+    {
+      "title": "House of Keys - Report of the Select Committee on the Constitution Bill - Nov 2000",
+      "url": "https://tynwald.org.im/spfile?file=/business/pp/Reports/2000-NN-0005.pdf",
+      "description": "Committee"
+    },
+    {
+      "title": "Select Committee of the House of Keys on the Misuse of Drugs (Cannabis) Bill - May 2001",
+      "url": "https://tynwald.org.im/spfile?file=/business/pp/Reports/2001-NN-0006.pdf",
+      "description": "Committee"
+    },
+    {
+      "title": "Report of the Select Committee of Tynwald on the Petition for Redress of Grievance of Margaret Bendall - Oct 2001",
+      "url": "https://tynwald.org.im/spfile?file=/business/pp/Reports/2001-NN-0012.pdf",
+      "description": "Committee"
+    },
+    {
+      "title": "Second Report of the Standing Orders Committee of Tynwald on Petitions for Redress presented on 5th July 2001 - Oct 2001",
+      "url": "https://tynwald.org.im/spfile?file=/business/pp/Reports/2001-NN-0016.pdf",
+      "description": "Committee"
+    },
+    {
+      "title": "Interim Report of the Select Committee on Complaints of Maladministration made by Mrs AESJ Pilling",
+      "url": "https://tynwald.org.im/spfile?file=/business/pp/Reports/2001-NN-0020.pdf",
+      "description": "Committee"
+    },
+    {
+      "title": "Report of the Select Committee of Tynwald on the Petition for Redress of Grievance of David Buttery - Oct 2001",
+      "url": "https://tynwald.org.im/spfile?file=/business/pp/Reports/2001-NN-0013.pdf",
+      "description": "Committee"
+    },
+    {
+      "title": "Standing Committee on Economic Initiatives - Annual Report 2002 - Jul 2002",
+      "url": "https://tynwald.org.im/spfile?file=/business/pp/Reports/2002-NN-0002.pdf",
+      "description": "Committee"
+    },
+    {
+      "title": "House of Keys Standing Orders Committee First Report 2001/2002 - Jun 2002",
+      "url": "https://tynwald.org.im/spfile?file=/business/pp/Reports/2002-NN-0001.pdf",
+      "description": "Committee"
+    },
+    {
+      "title": "Report of the Select Committee of Tynwald on the Petition for Redress of Grievance of Albert Edward Ansfield and Geoffrey Sheard Sanders - Oct 2001",
+      "url": "https://tynwald.org.im/spfile?file=/business/pp/Reports/2001-NN-0011.pdf",
+      "description": "Committee"
+    }
+  ]
 }
