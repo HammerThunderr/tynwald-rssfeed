@@ -1,6 +1,108 @@
 {
-  "success": false,
+  "success": true,
   "feed": "hansard",
-  "error": "429 Client Error: Too Many Requests for url: https://tynwald.org.im/rss?site=/business/hansard&list=2020-2040",
-  "items": []
+  "total": 20,
+  "updated": "2026-04-26 16:39 UTC",
+  "items": [
+    {
+      "title": "21 Apr 2026 Tynwald Hansard DRAFT",
+      "url": "https://tynwald.org.im/spfile?file=/business/hansard/20202040/t260421.pdf",
+      "description": "Tynwald 21 Apr 2026"
+    },
+    {
+      "title": "07 Apr 2026 Legislative Council Hansard DRAFT",
+      "url": "https://tynwald.org.im/spfile?file=/business/hansard/20202040/c260407.pdf",
+      "description": "Legislative Council 07 Apr 2026"
+    },
+    {
+      "title": "31 Mar 2026 House of Keys Hansard DRAFT",
+      "url": "https://tynwald.org.im/spfile?file=/business/hansard/20202040/k260331.pdf",
+      "description": "House of Keys 31 Mar 2026"
+    },
+    {
+      "title": "31 Mar 2026 Legislative Council Hansard DRAFT",
+      "url": "https://tynwald.org.im/spfile?file=/business/hansard/20202040/c260331.pdf",
+      "description": "Legislative Council 31 Mar 2026"
+    },
+    {
+      "title": "31 Mar 2026 Legislative Council Hansard Appendix - I1 Gas (Economic Regulation) Bill 2026 2022 – Evidence Stage – Bill proceeded to Clauses Stage",
+      "url": "https://tynwald.org.im/spfile?file=/business/hansard/20202040/c260331-HA-I1.pdf",
+      "description": "Hansard Appendix - 31 Mar 2026 Legislative Council - I1 Gas (Economic Regulation) Bill 2026 2022 – Evidence Stage – Bill proceeded to Clauses Stage: additional information provided by Hon. W Wannenburgh KC MLC, Attorney General"
+    },
+    {
+      "title": "24 Mar 2026 Legislative Council Hansard DRAFT",
+      "url": "https://tynwald.org.im/spfile?file=/business/hansard/20202040/c260324.pdf",
+      "description": "Legislative Council 24 Mar 2026"
+    },
+    {
+      "title": "24 Mar 2026 House of Keys DRAFT",
+      "url": "https://tynwald.org.im/spfile?file=/business/hansard/20202040/k260324.pdf",
+      "description": "House of Keys 24 Mar 2026"
+    },
+    {
+      "title": "24 Mar 2026 House of Keys Hansard Appendix - Q1.1 Assisted voluntary return migrant travel – Use to facilitate travel to the Island",
+      "url": "https://tynwald.org.im/spfile?file=/business/hansard/20202040/k260324-HA-Q1.1.pdf",
+      "description": "Hansard Appendix - 24 Mar 2026 House of Keys - Q1.1 Assisted voluntary return migrant travel – Use to facilitate travel to the Island: additional information provided by Hon. A Cannan MHK, Chief Minister"
+    },
+    {
+      "title": "18 Mar 2026 Tynwald Hansard DRAFT",
+      "url": "https://tynwald.org.im/spfile?file=/business/hansard/20202040/t260318.pdf",
+      "description": "Tynwald 18 Mar 2026"
+    },
+    {
+      "title": "17 Mar 2026 Tynwald Hansard DRAFT",
+      "url": "https://tynwald.org.im/spfile?file=/business/hansard/20202040/t260317.pdf",
+      "description": "Tynwald 17 Mar 2026"
+    },
+    {
+      "title": "12 Mar 2026 Select Committee of Tynwald on Whistleblowing Policy Implementation No. 4 Oral Evidence Hansard DRAFT",
+      "url": "https://tynwald.org.im/spfile?file=/business/hansard/20202040/wbpi260312.pdf",
+      "description": "Committee 12 Mar 2026"
+    },
+    {
+      "title": "10 Mar 2026 House of Keys Hansard DRAFT",
+      "url": "https://tynwald.org.im/spfile?file=/business/hansard/20202040/k260310.pdf",
+      "description": "House of Keys 10 Mar 2026"
+    },
+    {
+      "title": "10 Mar 2026 Legislative Council Hansard DRAFT",
+      "url": "https://tynwald.org.im/spfile?file=/business/hansard/20202040/c260310.pdf",
+      "description": "Legislative Council 10 Mar 2026"
+    },
+    {
+      "title": "10 Mar 2026 House of Keys Hansard Appendix - UQ Bus driver dispute – Negotiation and contingency plans update",
+      "url": "https://tynwald.org.im/spfile?file=/business/hansard/20202040/k260310-HA-UQ.pdf",
+      "description": "Hansard Appendix - 10 Mar 2026 House of Keys - UQ Bus driver dispute – Negotiation and contingency plans update: additional information provided by Hon. T Crookall MHK, Minister for Infrastructure"
+    },
+    {
+      "title": "09 Mar 2026 Constitutional and Legal Affairs and Justice Committee: External Relations No. 1 Oral Evidence Hansard DRAFT",
+      "url": "https://tynwald.org.im/spfile?file=/business/hansard/20202040/clajer260309.pdf",
+      "description": "Committee 09 Mar 2026"
+    },
+    {
+      "title": "05 Mar 2026 Select Committee of Tynwald on Whistleblowing Policy Implementation No. 3 Oral Evidence Hansard DRAFT",
+      "url": "https://tynwald.org.im/spfile?file=/business/hansard/20202040/wbpi260305.pdf",
+      "description": "Committee 05 Mar 2026"
+    },
+    {
+      "title": "03 Mar 2026 House of Keys Hansard DRAFT",
+      "url": "https://tynwald.org.im/spfile?file=/business/hansard/20202040/k260303.pdf",
+      "description": "House of Keys 03 Mar 2026"
+    },
+    {
+      "title": "03 Mar 2026 Legislative Council Hansard DRAFT",
+      "url": "https://tynwald.org.im/spfile?file=/business/hansard/20202040/c260303.pdf",
+      "description": "Legislative Council 03 Mar 2026"
+    },
+    {
+      "title": "24 Feb 2026 House of Keys Hansard DRAFT",
+      "url": "https://tynwald.org.im/spfile?file=/business/hansard/20202040/k260224 DRAFT.pdf",
+      "description": "House of Keys 24 Feb 2026"
+    },
+    {
+      "title": "24 Feb 2026 Legislative Council Hansard DRAFT",
+      "url": "https://tynwald.org.im/spfile?file=/business/hansard/20202040/c260224.pdf",
+      "description": "Legislative Council 24 Feb 2026"
+    }
+  ]
 }
