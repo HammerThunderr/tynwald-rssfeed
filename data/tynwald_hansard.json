@@ -2,8 +2,13 @@
   "success": true,
   "feed": "hansard",
   "total": 20,
-  "updated": "2026-04-27 08:20 UTC",
+  "updated": "2026-04-27 11:01 UTC",
   "items": [
+    {
+      "title": "22 Apr 2026 Tynwald Hansard DRAFT",
+      "url": "https://tynwald.org.im/spfile?file=/business/hansard/20202040/t260422.pdf",
+      "description": "Tynwald 22 Apr 2026"
+    },
     {
       "title": "21 Apr 2026 Tynwald Hansard DRAFT",
       "url": "https://tynwald.org.im/spfile?file=/business/hansard/20202040/t260421.pdf",
@@ -28,6 +33,11 @@
       "title": "31 Mar 2026 Legislative Council Hansard Appendix - I1 Gas (Economic Regulation) Bill 2026 2022 – Evidence Stage – Bill proceeded to Clauses Stage",
       "url": "https://tynwald.org.im/spfile?file=/business/hansard/20202040/c260331-HA-I1.pdf",
       "description": "Hansard Appendix - 31 Mar 2026 Legislative Council - I1 Gas (Economic Regulation) Bill 2026 2022 – Evidence Stage – Bill proceeded to Clauses Stage: additional information provided by Hon. W Wannenburgh KC MLC, Attorney General"
+    },
+    {
+      "title": "27 Mar 2026 Social Affairs Policy Review Committee: Department of Education, Sport and Culture No. 1 Oral Evidence Hansard DRAFT",
+      "url": "https://tynwald.org.im/spfile?file=/business/hansard/20202040/saprcdesc260327.pdf",
+      "description": "Committee 27 Mar 2026"
     },
     {
       "title": "24 Mar 2026 Legislative Council Hansard DRAFT",
@@ -93,16 +103,6 @@
       "title": "03 Mar 2026 Legislative Council Hansard DRAFT",
       "url": "https://tynwald.org.im/spfile?file=/business/hansard/20202040/c260303.pdf",
       "description": "Legislative Council 03 Mar 2026"
-    },
-    {
-      "title": "24 Feb 2026 House of Keys Hansard DRAFT",
-      "url": "https://tynwald.org.im/spfile?file=/business/hansard/20202040/k260224 DRAFT.pdf",
-      "description": "House of Keys 24 Feb 2026"
-    },
-    {
-      "title": "24 Feb 2026 Legislative Council Hansard DRAFT",
-      "url": "https://tynwald.org.im/spfile?file=/business/hansard/20202040/c260224.pdf",
-      "description": "Legislative Council 24 Feb 2026"
     }
   ]
 }
