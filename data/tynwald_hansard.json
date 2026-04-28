@@ -2,7 +2,7 @@
   "success": true,
   "feed": "hansard",
   "total": 20,
-  "updated": "2026-04-28 05:57 UTC",
+  "updated": "2026-04-28 08:29 UTC",
   "items": [
     {
       "title": "22 Apr 2026 Tynwald Hansard DRAFT",
@@ -18,6 +18,11 @@
       "title": "21 Apr 2026 Tynwald Hansard Appendix - Q10 Capacity Act 2023 – Full implementation",
       "url": "https://tynwald.org.im/spfile?file=/business/hansard/20202040/t260421-HA-Q10.pdf",
       "description": "Hansard Appendix - 21 Apr 2026 Tynwald - Q10 Capacity Act 2023 – Full implementation: additional information provided by Hon. C Christian MHK, Minister for Health and Social Care"
+    },
+    {
+      "title": "09 Apr 2026 Public Accounts Committee: Budget 2025-26 No. 1 Oral Evidence Hansard DRAFT",
+      "url": "https://tynwald.org.im/spfile?file=/business/hansard/20202040/pacb260409.pdf",
+      "description": "Committee 09 Apr 2026"
     },
     {
       "title": "07 Apr 2026 Legislative Council Hansard DRAFT",
@@ -98,11 +103,6 @@
       "title": "05 Mar 2026 Select Committee of Tynwald on Whistleblowing Policy Implementation No. 3 Oral Evidence Hansard DRAFT",
       "url": "https://tynwald.org.im/spfile?file=/business/hansard/20202040/wbpi260305.pdf",
       "description": "Committee 05 Mar 2026"
-    },
-    {
-      "title": "03 Mar 2026 House of Keys Hansard DRAFT",
-      "url": "https://tynwald.org.im/spfile?file=/business/hansard/20202040/k260303.pdf",
-      "description": "House of Keys 03 Mar 2026"
     }
   ]
 }
