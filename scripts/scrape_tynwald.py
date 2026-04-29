@@ -16,15 +16,15 @@ import random
 from datetime import datetime, timezone
 from xml.etree import ElementTree as ET
 
-# All Tynwald RSS feeds
+# All Tynwald RSS feeds — keys match the Flutter app expectations
 FEEDS = {
-    "hansard_2020_2040":   "https://tynwald.org.im/rss?site=/business/hansard&list=2020-2040",
-    "hansard_2010_2019":   "https://tynwald.org.im/rss?site=/business/hansard&list=2010-2019",
-    "papers":              "https://tynwald.org.im/rss?site=/business/papers&list=current",
-    "petitions":           "https://tynwald.org.im/rss?site=/business/petitions",
-    "questions":           "https://tynwald.org.im/rss?site=/business/qpapers",
-    "orders":              "https://tynwald.org.im/rss?site=/business/orderpaper",
-    "votes":               "https://tynwald.org.im/rss?site=/business/votes",
+    "hansard":       "https://tynwald.org.im/rss?site=/business/hansard&list=2020-2040",
+    "papers":        "https://tynwald.org.im/rss?site=/business/papers&list=current",
+    "petitions":     "https://tynwald.org.im/rss?site=/business/petitions",
+    "questions":     "https://tynwald.org.im/rss?site=/business/qpapers",
+    "orders":        "https://tynwald.org.im/rss?site=/business/orderpaper",
+    "votes":         "https://tynwald.org.im/rss?site=/business/votes",
+    "parliamentary": "https://tynwald.org.im/rss?site=/business",
 }
 
 HEADERS = {
