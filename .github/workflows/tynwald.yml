@@ -11,8 +11,8 @@ name: Scrape Tynwald RSS
 
 on:
   schedule:
-    # Run at 8am and 8pm UTC daily — avoids peak load times
-    - cron: '0 8,20 * * *'
+    # Run every Monday at 8am UTC — Tynwald data changes slowly
+    - cron: '0 8 * * 1'
   workflow_dispatch:    # manual trigger
 
 concurrency:
