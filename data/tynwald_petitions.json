@@ -1,0 +1,8 @@
+{
+  "success": false,
+  "error": "Failed to fetch after retries (likely rate-limited)",
+  "updated": "2026-04-29 17:10 UTC",
+  "fetchedAt": "2026-04-29T17:10:35.417438+00:00",
+  "key": "petitions",
+  "items": []
+}
